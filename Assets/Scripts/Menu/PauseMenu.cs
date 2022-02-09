@@ -41,6 +41,7 @@ public class PauseMenu : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name); //получаем доступ к активной сцене и перезапускаем ее
         Time.timeScale = 1f;
         isPaused = false;
+        ScoreMushroom.scoreOfMushrooms = 0;
     }
 
     public void MainMenu ()

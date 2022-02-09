@@ -99,7 +99,7 @@ MonoBehaviour:
   speed: 3
   sixtyPercentOfOfHealth: {fileID: 5916575549390120528, guid: 8faa7b2821708e443a12d5b3f67781d2, type: 3}
   thirtyThreePercentOfHealth: {fileID: 5916575549390120528, guid: 6f4e27bb6d8258b45b57dff9cfccb87b, type: 3}
-  zeroPercenrOfHealth: {fileID: 5916575549390120528, guid: 544d12a82e056f54f8404bb3de8beafb, type: 3}
+  zeroPercentOfHealth: {fileID: 5916575549390120528, guid: 544d12a82e056f54f8404bb3de8beafb, type: 3}
   healthPosition: {fileID: 6162288005742555399}
 --- !u!95 &883269417653113532
 Animator:
